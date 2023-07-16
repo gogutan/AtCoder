@@ -1,0 +1,1 @@
+p gets.split("+").count{|i|!i.include?("0")}
